@@ -1,0 +1,35 @@
+@media only screen and (max-width: 768px) {
+  .header .container .navigation .navbar .navbarnav a {
+    display: none;
+  }
+  .team .team__content {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+  .what .what__content {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+  .footer .footer__content {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+  .about .about__content {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+  .our .our__content {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+  .header .banner__content {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+}/*# sourceMappingURL=responsive.css.map */
