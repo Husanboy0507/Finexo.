@@ -437,10 +437,9 @@ body {
   text-align: center;
   height: 7vh;
   font-size: 1.1rem;
-}/*# sourceMappingURL=style.css.map */
-
-.swiper {
-  width: 600px;
-  height: 300px;
-  
 }
+
+.swiper-wrapper {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}/*# sourceMappingURL=style.css.map */
